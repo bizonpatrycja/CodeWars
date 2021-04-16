@@ -1,5 +1,5 @@
 # CodeWars
-In this repository I hold some of the tasks solved for codewars.com challenges both in Python and Java. https://www.codewars.com/ username: patbiz
+In this repository I hold some of the tasks solved for https://www.codewars.com/ challenges both in Python and Java (username: patbiz).
 
 Some of the references to the tasks canbe found via below links:
 
