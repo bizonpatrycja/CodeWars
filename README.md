@@ -8,6 +8,8 @@ Some of the references to the tasks can be found via below links:
   
 Pyhon:
 
+<4kyu>Sum of Intervals: https://www.codewars.com/kata/52b7ed099cdc285c300001cd
+
 <5kyu> Can you get the loop: https://www.codewars.com/kata/52a89c2ea8ddc5547a000863
 
 <5kyu>First non-repeating character: https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
