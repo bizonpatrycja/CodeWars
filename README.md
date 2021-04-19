@@ -3,7 +3,7 @@ In this repository I hold some of the tasks solved for https://www.codewars.com/
 
 Some of the references to the tasks canbe found via below links:
 
-<level> Challenge_name: link_with_description
+< rank > Challenge_name: link_with_description
   
   
 Pyhon:
