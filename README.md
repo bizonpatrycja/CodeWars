@@ -1,7 +1,7 @@
 # CodeWars
 In this repository I hold some of the tasks solved for https://www.codewars.com/ challenges both in Python and Java (username: patbiz).
 
-Some of the references to the tasks canbe found via below links:
+Some of the references to the tasks can be found via below links:
 
 < rank > Challenge_name: link_with_description
   
