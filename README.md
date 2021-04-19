@@ -8,20 +8,21 @@ Some of the references to the tasks canbe found via below links:
   
 Pyhon:
 
+<5kyu> Can you get the loop: https://www.codewars.com/kata/52a89c2ea8ddc5547a000863
+
+<5kyu>First non-repeating character: https://www.codewars.com/kata/52bc74d4ac05d0945d00054e
+
+<5kyu> Greed is Good: https://www.codewars.com/kata/5270d0d18625160ada0000e4
+
 <5kyu> RGB To Hex Conversion: https://www.codewars.com/kata/513e08acc600c94f01000001
+
+<5kyu>Valid parenthesis: https://www.codewars.com/kata/52774a314c2333f0a7000688
 
 <6kyu> Your order, please: https://www.codewars.com/kata/55c45be3b2079eccff00010f
 
 <6kyu> Who likes it: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 
 <6kyu> Format a string of names like 'Bart, Lisa & Maggie': https://www.codewars.com/kata/53368a47e38700bd8300030d
-
-<7kyu> Number of People in the Bus: https://www.codewars.com/kata/5648b12ce68d9daa6b000099
-
-<7kyu> Find the next perfect square: https://www.codewars.com/kata/56269eb78ad2e4ced1000013
-
-<7kyu> Regex validate PIN code: https://www.codewars.com/kata/55f8a9c06c018a0d6e000132
-
 
 Java:
 
